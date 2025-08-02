@@ -1,4 +1,5 @@
 <?php
+//add user 
 
 require("./common/databaseconnection.php");
 
